@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+newsapi-python
+openai
+moviepy
+Pillow
